@@ -1,5 +1,5 @@
 {
-  "name": "generate-uuid",
+  "name": "uuid-unique",
   "version": "1.0.0",
   "description": "generate unique id",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/dvm4078/generate-uuid.git"
+    "url": "git+ssh://git@github.com/dvm4078/uuid-unique.git"
   },
   "keywords": [
     "unique",
@@ -17,7 +17,7 @@
   "author": "dvm4078",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dvm4078/generate-uuid/issues"
+    "url": "https://github.com/dvm4078/uuid-unique/issues"
   },
-  "homepage": "https://github.com/dvm4078/generate-uuid#readme"
+  "homepage": "https://github.com/dvm4078/uuid-unique#readme"
 }
